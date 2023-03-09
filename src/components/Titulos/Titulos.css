@@ -1,0 +1,31 @@
+#containerTitulos {
+  width: 70%;
+  margin: auto;
+}
+
+
+.subTitulos h2 {
+  margin: 15px;
+}
+
+.subTitulos ul {
+  margin-left: 35px ;
+  margin-top: 20px;
+  display: flex;
+  flex-direction:column;
+  width: 50%;
+}
+
+.subTitulos li {
+  margin: 10px;
+}
+
+.subTitulos img {
+  margin-left: 20%;
+  border-radius: 50%;
+}
+
+.infoSubTitulos {
+  display: flex;
+  align-items: center;
+}
